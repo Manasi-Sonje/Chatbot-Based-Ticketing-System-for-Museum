@@ -1,0 +1,14 @@
+.input-container button {
+    margin-left: 5px;
+    background-color: #1e3c72;
+    color: white;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .input-container button:hover {
+    background-color: #2a5298;
+  }
+  
