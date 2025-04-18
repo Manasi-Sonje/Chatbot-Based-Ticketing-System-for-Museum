@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/book-your-museum/', // 👈 very important!
+  base: '/Chatbot-Based-Ticketing-System-for-Museum/', // 👈 very important!
 })
