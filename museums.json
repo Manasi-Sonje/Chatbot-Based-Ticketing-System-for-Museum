@@ -1,79 +1,4002 @@
-{
-  "museums": [
-    {
-      "id": 1,
-      "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
-      "city": "Mumbai",
-      "established": "1922",
-      "type": "Art, Archaeology, Natural History",
-      "description": "Houses ~50,000 artefacts across art, archaeology and natural history, including maritime heritage galleries." :contentReference[oaicite:0]{index=0}
-    },
-    {
-      "id": 2,
-      "name": "Dr. Bhau Daji Lad Museum",
-      "city": "Mumbai",
-      "established": "1872",
-      "type": "Decorative & Industrial Arts",
-      "description": "Mumbai's oldest museum focused on decorative and industrial arts." :contentReference[oaicite:1]{index=1}
-    },
-    {
-      "id": 3,
-      "name": "Raja Dinkar Kelkar Museum",
-      "city": "Pune",
-      "type": "Folk Art & Ancient Artifacts",
-      "description": "Home to over 20,000 Indian cultural artefacts including sculptures, utensils and music instruments." :contentReference[oaicite:2]{index=2}
-    },
-    {
-      "id": 4,
-      "name": "Nagpur Central Museum (Ajab Bangla)",
-      "city": "Nagpur",
-      "established": "1863",
-      "type": "Archaeology, Anthropology, Natural History",
-      "description": "One of the oldest museums in India with diverse collections." :contentReference[oaicite:3]{index=3}
-    },
-    {
-      "id": 5,
-      "name": "Cavalry Tank Museum",
-      "city": "Ahmednagar",
-      "type": "Military / Armored Vehicles",
-      "description": "Asia’s only tank museum, showcasing WW-II era tanks and armoured vehicles." :contentReference[oaicite:4]{index=4}
-    },
-    {
-      "id": 6,
-      "name": "Gargoti Museum",
-      "city": "Sinnar (Nashik District)",
-      "type": "Mineralogical Museum",
-      "description": "India’s only gem, mineral and fossil museum with largest collection of Indian zeolite minerals & crystals." :contentReference[oaicite:5]{index=5}
-    },
-    {
-      "id": 7,
-      "name": "National Museum of Indian Cinema",
-      "city": "Mumbai",
-      "established": "2019",
-      "type": "Film Museum",
-      "description": "Museum dedicated to history and development of Indian cinema housed across restored heritage and modern galleries." :contentReference[oaicite:6]{index=6}
-    },
-    {
-      "id": 8,
-      "name": "Zapurza Museum of Art & Culture",
-      "city": "Pune District",
-      "established": "2022-05-19",
-      "type": "Art & Cultural Heritage",
-      "description": "Art museum showcasing heirlooms, textiles, paintings, rotating artifacts collected over decades." :contentReference[oaicite:7]{index=7}
-    },
-    {
-      "id": 9,
-      "name": "National Gallery of Modern Art, Mumbai",
-      "city": "Mumbai",
-      "type": "Modern Art Gallery",
-      "description": "Museum of modern art in Mumbai, under NGMA network." :contentReference[oaicite:8]{index=8}
-    },
-    {
-      "id": 10,
-      "name": "Joshi's Museum of Miniature Railway",
-      "city": "Pune",
-      "type": "Miniature Railway",
-      "description": "Specialty museum showcasing detailed working miniature railway models." :contentReference[oaicite:9]{index=9}
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Museum of Illusions",
+    "city": "Delhi",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 650,
+    "bookingUrl": "https://in.bookmyshow.com/activities/museum-of-illusions/ET00312745"
+  },
+  {
+    "id": 2,
+    "name": "National Museum of Indian Cinema",
+    "city": "Mumbai",
+    "timings": "10:00 AM - 5:30 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/activities/national-museum-of-indian-cinema-museum-tour/ET00367252"
+  },
+  {
+    "id": 3,
+    "name": "Salar Jung Museum",
+    "city": "Hyderabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/activities/salar-jung-museum-visit/ET00304533"
+  },
+  {
+    "id": 4,
+    "name": "The City Palace Museum",
+    "city": "Jaipur",
+    "timings": "9:30 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/activities/tour-of-the-museum-the-city-palace-jaipur/ET00417725"
+  },
+  {
+    "id": 5,
+    "name": "Pradhanmantri Sangrahalaya",
+    "city": "New Delhi",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/activities/pradhanmantri-sangrahalya/ET00398460"
+  },
+  {
+    "id": 6,
+    "name": "Paradox Museum",
+    "city": "Mumbai",
+    "timings": "11:00 AM - 8:00 PM",
+    "price": 990,
+    "bookingUrl": "https://in.bookmyshow.com/activities/paradox-museum/ET00409218"
+  },
+  {
+    "id": 7,
+    "name": "Gulbarga Museum of Art",
+    "city": "Gulbarga",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gulbarga?q=Gulbarga+Museum+of+Art"
+  },
+  {
+    "id": 8,
+    "name": "Dhanbad War Memorial Museum",
+    "city": "Dhanbad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+War+Memorial+Museum"
+  },
+  {
+    "id": 9,
+    "name": "Jhansi State Museum",
+    "city": "Jhansi",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+State+Museum"
+  },
+  {
+    "id": 10,
+    "name": "Moradabad Government Museum",
+    "city": "Moradabad",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Government+Museum"
+  },
+  {
+    "id": 11,
+    "name": "Srinagar Space & Science Museum",
+    "city": "Srinagar",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-srinagar?q=Srinagar+Space+%26+Science+Museum"
+  },
+  {
+    "id": 12,
+    "name": "Rajkot Handicrafts & Handlooms Museum",
+    "city": "Rajkot",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rajkot?q=Rajkot+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 13,
+    "name": "Tiruppur War Memorial Museum",
+    "city": "Tiruppur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+War+Memorial+Museum"
+  },
+  {
+    "id": 14,
+    "name": "Mumbai Regional Museum",
+    "city": "Mumbai",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mumbai?q=Mumbai+Regional+Museum"
+  },
+  {
+    "id": 15,
+    "name": "Raipur Natural History Museum",
+    "city": "Raipur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-raipur?q=Raipur+Natural+History+Museum"
+  },
+  {
+    "id": 16,
+    "name": "Indore Science Museum",
+    "city": "Indore",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+Science+Museum"
+  },
+  {
+    "id": 17,
+    "name": "Kota Photography Museum",
+    "city": "Kota",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Photography+Museum"
+  },
+  {
+    "id": 18,
+    "name": "Cuttack Museum of Art",
+    "city": "Cuttack",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-cuttack?q=Cuttack+Museum+of+Art"
+  },
+  {
+    "id": 19,
+    "name": "Coimbatore Music & Performing Arts Museum",
+    "city": "Coimbatore",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 20,
+    "name": "Meerut Handicrafts & Handlooms Museum",
+    "city": "Meerut",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 21,
+    "name": "Udaipur Archaeology Museum",
+    "city": "Udaipur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Archaeology+Museum"
+  },
+  {
+    "id": 22,
+    "name": "Hubballi Natural History Museum",
+    "city": "Hubballi",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hubballi?q=Hubballi+Natural+History+Museum"
+  },
+  {
+    "id": 23,
+    "name": "Ludhiana Transport Museum",
+    "city": "Ludhiana",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ludhiana?q=Ludhiana+Transport+Museum"
+  },
+  {
+    "id": 24,
+    "name": "Mangalore Crafts Museum",
+    "city": "Mangalore",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Crafts+Museum"
+  },
+  {
+    "id": 25,
+    "name": "Gulbarga Rail Museum",
+    "city": "Gulbarga",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gulbarga?q=Gulbarga+Rail+Museum"
+  },
+  {
+    "id": 26,
+    "name": "Ludhiana Aviation Museum",
+    "city": "Ludhiana",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ludhiana?q=Ludhiana+Aviation+Museum"
+  },
+  {
+    "id": 27,
+    "name": "Varanasi Crafts Museum",
+    "city": "Varanasi",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-varanasi?q=Varanasi+Crafts+Museum"
+  },
+  {
+    "id": 28,
+    "name": "Ahmedabad Tribal Museum",
+    "city": "Ahmedabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Tribal+Museum"
+  },
+  {
+    "id": 29,
+    "name": "Vasai-Virar Planetarium & Science Centre",
+    "city": "Vasai-Virar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 30,
+    "name": "Ujjain Children's Museum",
+    "city": "Ujjain",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Children%27s+Museum"
+  },
+  {
+    "id": 31,
+    "name": "Vadodara Natural History Museum",
+    "city": "Vadodara",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vadodara?q=Vadodara+Natural+History+Museum"
+  },
+  {
+    "id": 32,
+    "name": "Cuttack Natural History Museum",
+    "city": "Cuttack",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-cuttack?q=Cuttack+Natural+History+Museum"
+  },
+  {
+    "id": 33,
+    "name": "Durgapur Textile Museum",
+    "city": "Durgapur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-durgapur?q=Durgapur+Textile+Museum"
+  },
+  {
+    "id": 34,
+    "name": "Noida Children's Museum",
+    "city": "Noida",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-noida?q=Noida+Children%27s+Museum"
+  },
+  {
+    "id": 35,
+    "name": "Ghaziabad Music & Performing Arts Museum",
+    "city": "Ghaziabad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 36,
+    "name": "Rourkela Science Museum",
+    "city": "Rourkela",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rourkela?q=Rourkela+Science+Museum"
+  },
+  {
+    "id": 37,
+    "name": "Guntur Space & Science Museum",
+    "city": "Guntur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Space+%26+Science+Museum"
+  },
+  {
+    "id": 38,
+    "name": "Ulhasnagar State Museum",
+    "city": "Ulhasnagar",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ulhasnagar?q=Ulhasnagar+State+Museum"
+  },
+  {
+    "id": 39,
+    "name": "Gaya Natural History Museum",
+    "city": "Gaya",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gaya?q=Gaya+Natural+History+Museum"
+  },
+  {
+    "id": 40,
+    "name": "Coimbatore Folk & Culture Museum",
+    "city": "Coimbatore",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 41,
+    "name": "Kurnool State Museum",
+    "city": "Kurnool",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kurnool?q=Kurnool+State+Museum"
+  },
+  {
+    "id": 42,
+    "name": "Amravati Museum of Art",
+    "city": "Amravati",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Museum+of+Art"
+  },
+  {
+    "id": 43,
+    "name": "Nanded Maritime Museum",
+    "city": "Nanded",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nanded?q=Nanded+Maritime+Museum"
+  },
+  {
+    "id": 44,
+    "name": "Firozabad Regional Museum",
+    "city": "Firozabad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-firozabad?q=Firozabad+Regional+Museum"
+  },
+  {
+    "id": 45,
+    "name": "Jodhpur Children's Museum",
+    "city": "Jodhpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jodhpur?q=Jodhpur+Children%27s+Museum"
+  },
+  {
+    "id": 46,
+    "name": "Gwalior War Memorial Museum",
+    "city": "Gwalior",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+War+Memorial+Museum"
+  },
+  {
+    "id": 47,
+    "name": "Lucknow Science Museum",
+    "city": "Lucknow",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-lucknow?q=Lucknow+Science+Museum"
+  },
+  {
+    "id": 48,
+    "name": "Tirupati Innovation Museum",
+    "city": "Tirupati",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tirupati?q=Tirupati+Innovation+Museum"
+  },
+  {
+    "id": 49,
+    "name": "Kochi Rail Museum",
+    "city": "Kochi",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Rail+Museum"
+  },
+  {
+    "id": 50,
+    "name": "Moradabad Maritime Museum",
+    "city": "Moradabad",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Maritime+Museum"
+  },
+  {
+    "id": 51,
+    "name": "Belagavi Archaeology Museum",
+    "city": "Belagavi",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-belagavi?q=Belagavi+Archaeology+Museum"
+  },
+  {
+    "id": 52,
+    "name": "Bhubaneswar Space & Science Museum",
+    "city": "Bhubaneswar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Space+%26+Science+Museum"
+  },
+  {
+    "id": 53,
+    "name": "Varanasi Science Museum",
+    "city": "Varanasi",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-varanasi?q=Varanasi+Science+Museum"
+  },
+  {
+    "id": 54,
+    "name": "Kochi War Memorial Museum",
+    "city": "Kochi",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+War+Memorial+Museum"
+  },
+  {
+    "id": 55,
+    "name": "Surat Handicrafts & Handlooms Museum",
+    "city": "Surat",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-surat?q=Surat+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 56,
+    "name": "Jaipur Government Museum",
+    "city": "Jaipur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jaipur?q=Jaipur+Government+Museum"
+  },
+  {
+    "id": 57,
+    "name": "Aurangabad Natural History Museum",
+    "city": "Aurangabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aurangabad?q=Aurangabad+Natural+History+Museum"
+  },
+  {
+    "id": 58,
+    "name": "Firozabad Heritage Museum",
+    "city": "Firozabad",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-firozabad?q=Firozabad+Heritage+Museum"
+  },
+  {
+    "id": 59,
+    "name": "Bhiwandi War Memorial Museum",
+    "city": "Bhiwandi",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhiwandi?q=Bhiwandi+War+Memorial+Museum"
+  },
+  {
+    "id": 60,
+    "name": "Nagpur Museum of Art",
+    "city": "Nagpur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nagpur?q=Nagpur+Museum+of+Art"
+  },
+  {
+    "id": 61,
+    "name": "Moradabad Folk & Culture Museum",
+    "city": "Moradabad",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 62,
+    "name": "Jhansi Music & Performing Arts Museum",
+    "city": "Jhansi",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 63,
+    "name": "Tiruchirappalli State Museum",
+    "city": "Tiruchirappalli",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+State+Museum"
+  },
+  {
+    "id": 64,
+    "name": "Meerut Maritime Museum",
+    "city": "Meerut",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Maritime+Museum"
+  },
+  {
+    "id": 65,
+    "name": "Moradabad Rail Museum",
+    "city": "Moradabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Rail+Museum"
+  },
+  {
+    "id": 66,
+    "name": "Surat Aviation Museum",
+    "city": "Surat",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-surat?q=Surat+Aviation+Museum"
+  },
+  {
+    "id": 67,
+    "name": "Ujjain Innovation Museum",
+    "city": "Ujjain",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Innovation+Museum"
+  },
+  {
+    "id": 68,
+    "name": "Agra Folk & Culture Museum",
+    "city": "Agra",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-agra?q=Agra+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 69,
+    "name": "Tiruchirappalli Government Museum",
+    "city": "Tiruchirappalli",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Government+Museum"
+  },
+  {
+    "id": 70,
+    "name": "Bareilly Natural History Museum",
+    "city": "Bareilly",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bareilly?q=Bareilly+Natural+History+Museum"
+  },
+  {
+    "id": 71,
+    "name": "Mangalore State Museum",
+    "city": "Mangalore",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+State+Museum"
+  },
+  {
+    "id": 72,
+    "name": "Ghaziabad Maritime Museum",
+    "city": "Ghaziabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Maritime+Museum"
+  },
+  {
+    "id": 73,
+    "name": "Durgapur State Museum",
+    "city": "Durgapur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-durgapur?q=Durgapur+State+Museum"
+  },
+  {
+    "id": 74,
+    "name": "Pune Government Museum",
+    "city": "Pune",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-pune?q=Pune+Government+Museum"
+  },
+  {
+    "id": 75,
+    "name": "Bhilai Rail Museum",
+    "city": "Bhilai",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Rail+Museum"
+  },
+  {
+    "id": 76,
+    "name": "Faridabad Science Museum",
+    "city": "Faridabad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-faridabad?q=Faridabad+Science+Museum"
+  },
+  {
+    "id": 77,
+    "name": "Tiruchirappalli Museum of Art",
+    "city": "Tiruchirappalli",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Museum+of+Art"
+  },
+  {
+    "id": 78,
+    "name": "Rourkela Government Museum",
+    "city": "Rourkela",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rourkela?q=Rourkela+Government+Museum"
+  },
+  {
+    "id": 79,
+    "name": "Loni Planetarium & Science Centre",
+    "city": "Loni",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 80,
+    "name": "Navi Mumbai Maritime Museum",
+    "city": "Navi Mumbai",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Maritime+Museum"
+  },
+  {
+    "id": 81,
+    "name": "Aurangabad Natural History Museum 2",
+    "city": "Aurangabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aurangabad?q=Aurangabad+Natural+History+Museum+2"
+  },
+  {
+    "id": 82,
+    "name": "Warangal Tribal Museum",
+    "city": "Warangal",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-warangal?q=Warangal+Tribal+Museum"
+  },
+  {
+    "id": 83,
+    "name": "Ajmer Planetarium & Science Centre",
+    "city": "Ajmer",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 84,
+    "name": "Vasai-Virar Space & Science Museum",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Space+%26+Science+Museum"
+  },
+  {
+    "id": 85,
+    "name": "Jaipur War Memorial Museum",
+    "city": "Jaipur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jaipur?q=Jaipur+War+Memorial+Museum"
+  },
+  {
+    "id": 86,
+    "name": "Bhubaneswar Innovation Museum",
+    "city": "Bhubaneswar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Innovation+Museum"
+  },
+  {
+    "id": 87,
+    "name": "Ujjain Space & Science Museum",
+    "city": "Ujjain",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Space+%26+Science+Museum"
+  },
+  {
+    "id": 88,
+    "name": "Jabalpur Crafts Museum",
+    "city": "Jabalpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jabalpur?q=Jabalpur+Crafts+Museum"
+  },
+  {
+    "id": 89,
+    "name": "Thane Museum of Art",
+    "city": "Thane",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Museum+of+Art"
+  },
+  {
+    "id": 90,
+    "name": "Prayagraj Archaeology Museum",
+    "city": "Prayagraj",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Archaeology+Museum"
+  },
+  {
+    "id": 91,
+    "name": "Kalyan Crafts Museum",
+    "city": "Kalyan",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kalyan?q=Kalyan+Crafts+Museum"
+  },
+  {
+    "id": 92,
+    "name": "Gorakhpur Natural History Museum",
+    "city": "Gorakhpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gorakhpur?q=Gorakhpur+Natural+History+Museum"
+  },
+  {
+    "id": 93,
+    "name": "Ranchi Government Museum",
+    "city": "Ranchi",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ranchi?q=Ranchi+Government+Museum"
+  },
+  {
+    "id": 94,
+    "name": "Gulbarga Natural History Museum",
+    "city": "Gulbarga",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gulbarga?q=Gulbarga+Natural+History+Museum"
+  },
+  {
+    "id": 95,
+    "name": "Kochi Handicrafts & Handlooms Museum",
+    "city": "Kochi",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 96,
+    "name": "Thane Science Museum",
+    "city": "Thane",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Science+Museum"
+  },
+  {
+    "id": 97,
+    "name": "Ahmedabad Transport Museum",
+    "city": "Ahmedabad",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Transport+Museum"
+  },
+  {
+    "id": 98,
+    "name": "Jalandhar Heritage Museum",
+    "city": "Jalandhar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Heritage+Museum"
+  },
+  {
+    "id": 99,
+    "name": "Panaji Government Museum",
+    "city": "Panaji",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-panaji?q=Panaji+Government+Museum"
+  },
+  {
+    "id": 100,
+    "name": "Siliguri Museum of Art",
+    "city": "Siliguri",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Museum+of+Art"
+  },
+  {
+    "id": 101,
+    "name": "Ajmer State Museum",
+    "city": "Ajmer",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+State+Museum"
+  },
+  {
+    "id": 102,
+    "name": "Nashik Folk & Culture Museum",
+    "city": "Nashik",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 103,
+    "name": "Bharatpur Folk & Culture Museum",
+    "city": "Bharatpur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bharatpur?q=Bharatpur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 104,
+    "name": "Prayagraj Rail Museum",
+    "city": "Prayagraj",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Rail+Museum"
+  },
+  {
+    "id": 105,
+    "name": "Ahmedabad Children's Museum",
+    "city": "Ahmedabad",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Children%27s+Museum"
+  },
+  {
+    "id": 106,
+    "name": "Kota Archaeology Museum",
+    "city": "Kota",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Archaeology+Museum"
+  },
+  {
+    "id": 107,
+    "name": "Loni Maritime Museum",
+    "city": "Loni",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Maritime+Museum"
+  },
+  {
+    "id": 108,
+    "name": "Jaipur Regional Museum",
+    "city": "Jaipur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jaipur?q=Jaipur+Regional+Museum"
+  },
+  {
+    "id": 109,
+    "name": "Tiruchirappalli Crafts Museum",
+    "city": "Tiruchirappalli",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Crafts+Museum"
+  },
+  {
+    "id": 110,
+    "name": "Thane Natural History Museum",
+    "city": "Thane",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Natural+History+Museum"
+  },
+  {
+    "id": 111,
+    "name": "Ahmedabad Museum of Art",
+    "city": "Ahmedabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Museum+of+Art"
+  },
+  {
+    "id": 112,
+    "name": "Ambattur Tribal Museum",
+    "city": "Ambattur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ambattur?q=Ambattur+Tribal+Museum"
+  },
+  {
+    "id": 113,
+    "name": "Thane Textile Museum",
+    "city": "Thane",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Textile+Museum"
+  },
+  {
+    "id": 114,
+    "name": "Chennai Handicrafts & Handlooms Museum",
+    "city": "Chennai",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 115,
+    "name": "Cuttack Crafts Museum",
+    "city": "Cuttack",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-cuttack?q=Cuttack+Crafts+Museum"
+  },
+  {
+    "id": 116,
+    "name": "Chandigarh Folk & Culture Museum",
+    "city": "Chandigarh",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 117,
+    "name": "Ajmer Tribal Museum",
+    "city": "Ajmer",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+Tribal+Museum"
+  },
+  {
+    "id": 118,
+    "name": "Amravati Archaeology Museum",
+    "city": "Amravati",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Archaeology+Museum"
+  },
+  {
+    "id": 119,
+    "name": "Tiruchirappalli Handicrafts & Handlooms Museum",
+    "city": "Tiruchirappalli",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 120,
+    "name": "Meerut Folk & Culture Museum",
+    "city": "Meerut",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 121,
+    "name": "Kolhapur Planetarium & Science Centre",
+    "city": "Kolhapur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolhapur?q=Kolhapur+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 122,
+    "name": "Mumbai Archaeology Museum",
+    "city": "Mumbai",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mumbai?q=Mumbai+Archaeology+Museum"
+  },
+  {
+    "id": 123,
+    "name": "Bharatpur Planetarium & Science Centre",
+    "city": "Bharatpur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bharatpur?q=Bharatpur+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 124,
+    "name": "Guntur Aviation Museum",
+    "city": "Guntur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Aviation+Museum"
+  },
+  {
+    "id": 125,
+    "name": "Noida Children's Museum 2",
+    "city": "Noida",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-noida?q=Noida+Children%27s+Museum+2"
+  },
+  {
+    "id": 126,
+    "name": "Howrah Space & Science Museum",
+    "city": "Howrah",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Space+%26+Science+Museum"
+  },
+  {
+    "id": 127,
+    "name": "Madurai Science Museum",
+    "city": "Madurai",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-madurai?q=Madurai+Science+Museum"
+  },
+  {
+    "id": 128,
+    "name": "Varanasi Maritime Museum",
+    "city": "Varanasi",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-varanasi?q=Varanasi+Maritime+Museum"
+  },
+  {
+    "id": 129,
+    "name": "Dhanbad Children's Museum",
+    "city": "Dhanbad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+Children%27s+Museum"
+  },
+  {
+    "id": 130,
+    "name": "Tiruppur Music & Performing Arts Museum",
+    "city": "Tiruppur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 131,
+    "name": "Bikaner Textile Museum",
+    "city": "Bikaner",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bikaner?q=Bikaner+Textile+Museum"
+  },
+  {
+    "id": 132,
+    "name": "Gaya Regional Museum",
+    "city": "Gaya",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gaya?q=Gaya+Regional+Museum"
+  },
+  {
+    "id": 133,
+    "name": "Nashik Handicrafts & Handlooms Museum",
+    "city": "Nashik",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 134,
+    "name": "Nellore War Memorial Museum",
+    "city": "Nellore",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nellore?q=Nellore+War+Memorial+Museum"
+  },
+  {
+    "id": 135,
+    "name": "Guntur Crafts Museum",
+    "city": "Guntur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Crafts+Museum"
+  },
+  {
+    "id": 136,
+    "name": "Vijayawada Regional Museum",
+    "city": "Vijayawada",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vijayawada?q=Vijayawada+Regional+Museum"
+  },
+  {
+    "id": 137,
+    "name": "Moradabad Innovation Museum",
+    "city": "Moradabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Innovation+Museum"
+  },
+  {
+    "id": 138,
+    "name": "Salem Natural History Museum",
+    "city": "Salem",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Natural+History+Museum"
+  },
+  {
+    "id": 139,
+    "name": "Udaipur Regional Museum",
+    "city": "Udaipur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Regional+Museum"
+  },
+  {
+    "id": 140,
+    "name": "Ranchi Aviation Museum",
+    "city": "Ranchi",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ranchi?q=Ranchi+Aviation+Museum"
+  },
+  {
+    "id": 141,
+    "name": "Aurangabad Natural History Museum 3",
+    "city": "Aurangabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aurangabad?q=Aurangabad+Natural+History+Museum+3"
+  },
+  {
+    "id": 142,
+    "name": "Lucknow Heritage Museum",
+    "city": "Lucknow",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-lucknow?q=Lucknow+Heritage+Museum"
+  },
+  {
+    "id": 143,
+    "name": "Jammu Heritage Museum",
+    "city": "Jammu",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jammu?q=Jammu+Heritage+Museum"
+  },
+  {
+    "id": 144,
+    "name": "Tiruppur Folk & Culture Museum",
+    "city": "Tiruppur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 145,
+    "name": "Tiruppur Government Museum",
+    "city": "Tiruppur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Government+Museum"
+  },
+  {
+    "id": 146,
+    "name": "Udaipur Planetarium & Science Centre",
+    "city": "Udaipur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 147,
+    "name": "Hubballi Children's Museum",
+    "city": "Hubballi",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hubballi?q=Hubballi+Children%27s+Museum"
+  },
+  {
+    "id": 148,
+    "name": "Gaya Textile Museum",
+    "city": "Gaya",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gaya?q=Gaya+Textile+Museum"
+  },
+  {
+    "id": 149,
+    "name": "Nanded War Memorial Museum",
+    "city": "Nanded",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nanded?q=Nanded+War+Memorial+Museum"
+  },
+  {
+    "id": 150,
+    "name": "Jalandhar Children's Museum",
+    "city": "Jalandhar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Children%27s+Museum"
+  },
+  {
+    "id": 151,
+    "name": "Siliguri Crafts Museum",
+    "city": "Siliguri",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Crafts+Museum"
+  },
+  {
+    "id": 152,
+    "name": "Guntur Heritage Museum",
+    "city": "Guntur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Heritage+Museum"
+  },
+  {
+    "id": 153,
+    "name": "Mysuru Planetarium & Science Centre",
+    "city": "Mysuru",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mysuru?q=Mysuru+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 154,
+    "name": "Lucknow Music & Performing Arts Museum",
+    "city": "Lucknow",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-lucknow?q=Lucknow+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 155,
+    "name": "Faridabad Government Museum",
+    "city": "Faridabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-faridabad?q=Faridabad+Government+Museum"
+  },
+  {
+    "id": 156,
+    "name": "Vasai-Virar Aviation Museum",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Aviation+Museum"
+  },
+  {
+    "id": 157,
+    "name": "Ranchi Regional Museum",
+    "city": "Ranchi",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ranchi?q=Ranchi+Regional+Museum"
+  },
+  {
+    "id": 158,
+    "name": "Bhiwandi City Museum",
+    "city": "Bhiwandi",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhiwandi?q=Bhiwandi+City+Museum"
+  },
+  {
+    "id": 159,
+    "name": "Kota War Memorial Museum",
+    "city": "Kota",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+War+Memorial+Museum"
+  },
+  {
+    "id": 160,
+    "name": "Gaya City Museum",
+    "city": "Gaya",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gaya?q=Gaya+City+Museum"
+  },
+  {
+    "id": 161,
+    "name": "Ajmer Heritage Museum",
+    "city": "Ajmer",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+Heritage+Museum"
+  },
+  {
+    "id": 162,
+    "name": "Siliguri Museum of Art 2",
+    "city": "Siliguri",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Museum+of+Art+2"
+  },
+  {
+    "id": 163,
+    "name": "Mangalore Natural History Museum",
+    "city": "Mangalore",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Natural+History+Museum"
+  },
+  {
+    "id": 164,
+    "name": "Nanded State Museum",
+    "city": "Nanded",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nanded?q=Nanded+State+Museum"
+  },
+  {
+    "id": 165,
+    "name": "Gwalior Museum of Art",
+    "city": "Gwalior",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+Museum+of+Art"
+  },
+  {
+    "id": 166,
+    "name": "Dehradun Crafts Museum",
+    "city": "Dehradun",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+Crafts+Museum"
+  },
+  {
+    "id": 167,
+    "name": "Surat Planetarium & Science Centre",
+    "city": "Surat",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-surat?q=Surat+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 168,
+    "name": "Indore Handicrafts & Handlooms Museum",
+    "city": "Indore",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 169,
+    "name": "Bhopal Planetarium & Science Centre",
+    "city": "Bhopal",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhopal?q=Bhopal+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 170,
+    "name": "Moradabad Crafts Museum",
+    "city": "Moradabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Crafts+Museum"
+  },
+  {
+    "id": 171,
+    "name": "Jamnagar Tribal Museum",
+    "city": "Jamnagar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jamnagar?q=Jamnagar+Tribal+Museum"
+  },
+  {
+    "id": 172,
+    "name": "Indore Folk & Culture Museum",
+    "city": "Indore",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 173,
+    "name": "Erode Heritage Museum",
+    "city": "Erode",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-erode?q=Erode+Heritage+Museum"
+  },
+  {
+    "id": 174,
+    "name": "Ujjain Natural History Museum",
+    "city": "Ujjain",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Natural+History+Museum"
+  },
+  {
+    "id": 175,
+    "name": "Guntur Folk & Culture Museum",
+    "city": "Guntur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 176,
+    "name": "Jodhpur War Memorial Museum",
+    "city": "Jodhpur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jodhpur?q=Jodhpur+War+Memorial+Museum"
+  },
+  {
+    "id": 177,
+    "name": "Dhanbad Regional Museum",
+    "city": "Dhanbad",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+Regional+Museum"
+  },
+  {
+    "id": 178,
+    "name": "Siliguri Textile Museum",
+    "city": "Siliguri",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Textile+Museum"
+  },
+  {
+    "id": 179,
+    "name": "Jodhpur Rail Museum",
+    "city": "Jodhpur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jodhpur?q=Jodhpur+Rail+Museum"
+  },
+  {
+    "id": 180,
+    "name": "Navi Mumbai Tribal Museum",
+    "city": "Navi Mumbai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Tribal+Museum"
+  },
+  {
+    "id": 181,
+    "name": "Nellore City Museum",
+    "city": "Nellore",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nellore?q=Nellore+City+Museum"
+  },
+  {
+    "id": 182,
+    "name": "Aurangabad State Museum",
+    "city": "Aurangabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aurangabad?q=Aurangabad+State+Museum"
+  },
+  {
+    "id": 183,
+    "name": "Tirupati War Memorial Museum",
+    "city": "Tirupati",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tirupati?q=Tirupati+War+Memorial+Museum"
+  },
+  {
+    "id": 184,
+    "name": "Salem City Museum",
+    "city": "Salem",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+City+Museum"
+  },
+  {
+    "id": 185,
+    "name": "Tiruchirappalli Handicrafts & Handlooms Museum 2",
+    "city": "Tiruchirappalli",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Handicrafts+%26+Handlooms+Museum+2"
+  },
+  {
+    "id": 186,
+    "name": "Solapur Children's Museum",
+    "city": "Solapur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-solapur?q=Solapur+Children%27s+Museum"
+  },
+  {
+    "id": 187,
+    "name": "Moradabad State Museum",
+    "city": "Moradabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+State+Museum"
+  },
+  {
+    "id": 188,
+    "name": "Mangalore Aviation Museum",
+    "city": "Mangalore",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Aviation+Museum"
+  },
+  {
+    "id": 189,
+    "name": "Srinagar Museum of Art",
+    "city": "Srinagar",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-srinagar?q=Srinagar+Museum+of+Art"
+  },
+  {
+    "id": 190,
+    "name": "Bhopal State Museum",
+    "city": "Bhopal",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhopal?q=Bhopal+State+Museum"
+  },
+  {
+    "id": 191,
+    "name": "Meerut Maritime Museum 2",
+    "city": "Meerut",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Maritime+Museum+2"
+  },
+  {
+    "id": 192,
+    "name": "Kurnool Planetarium & Science Centre",
+    "city": "Kurnool",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kurnool?q=Kurnool+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 193,
+    "name": "Nagpur Maritime Museum",
+    "city": "Nagpur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nagpur?q=Nagpur+Maritime+Museum"
+  },
+  {
+    "id": 194,
+    "name": "Nashik Archaeology Museum",
+    "city": "Nashik",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Archaeology+Museum"
+  },
+  {
+    "id": 195,
+    "name": "Visakhapatnam Natural History Museum",
+    "city": "Visakhapatnam",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-visakhapatnam?q=Visakhapatnam+Natural+History+Museum"
+  },
+  {
+    "id": 196,
+    "name": "Coimbatore Handicrafts & Handlooms Museum",
+    "city": "Coimbatore",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 197,
+    "name": "Indore City Museum",
+    "city": "Indore",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+City+Museum"
+  },
+  {
+    "id": 198,
+    "name": "Saharanpur Aviation Museum",
+    "city": "Saharanpur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-saharanpur?q=Saharanpur+Aviation+Museum"
+  },
+  {
+    "id": 199,
+    "name": "Amritsar Children's Museum",
+    "city": "Amritsar",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amritsar?q=Amritsar+Children%27s+Museum"
+  },
+  {
+    "id": 200,
+    "name": "Gorakhpur Science Museum",
+    "city": "Gorakhpur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gorakhpur?q=Gorakhpur+Science+Museum"
+  },
+  {
+    "id": 201,
+    "name": "Ghaziabad Heritage Museum",
+    "city": "Ghaziabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Heritage+Museum"
+  },
+  {
+    "id": 202,
+    "name": "Dhanbad Museum of Art",
+    "city": "Dhanbad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+Museum+of+Art"
+  },
+  {
+    "id": 203,
+    "name": "Rourkela Photography Museum",
+    "city": "Rourkela",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rourkela?q=Rourkela+Photography+Museum"
+  },
+  {
+    "id": 204,
+    "name": "Salem Aviation Museum",
+    "city": "Salem",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Aviation+Museum"
+  },
+  {
+    "id": 205,
+    "name": "Gwalior Planetarium & Science Centre",
+    "city": "Gwalior",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 206,
+    "name": "Tirunelveli Museum of Art",
+    "city": "Tirunelveli",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tirunelveli?q=Tirunelveli+Museum+of+Art"
+  },
+  {
+    "id": 207,
+    "name": "Navi Mumbai Crafts Museum",
+    "city": "Navi Mumbai",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Crafts+Museum"
+  },
+  {
+    "id": 208,
+    "name": "Nashik Innovation Museum",
+    "city": "Nashik",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Innovation+Museum"
+  },
+  {
+    "id": 209,
+    "name": "Aligarh Aviation Museum",
+    "city": "Aligarh",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aligarh?q=Aligarh+Aviation+Museum"
+  },
+  {
+    "id": 210,
+    "name": "Coimbatore Government Museum",
+    "city": "Coimbatore",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Government+Museum"
+  },
+  {
+    "id": 211,
+    "name": "Mangalore Aviation Museum 2",
+    "city": "Mangalore",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Aviation+Museum+2"
+  },
+  {
+    "id": 212,
+    "name": "Navi Mumbai Music & Performing Arts Museum",
+    "city": "Navi Mumbai",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 213,
+    "name": "Moradabad Museum of Art",
+    "city": "Moradabad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+Museum+of+Art"
+  },
+  {
+    "id": 214,
+    "name": "Prayagraj Heritage Museum",
+    "city": "Prayagraj",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Heritage+Museum"
+  },
+  {
+    "id": 215,
+    "name": "Panaji Archaeology Museum",
+    "city": "Panaji",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-panaji?q=Panaji+Archaeology+Museum"
+  },
+  {
+    "id": 216,
+    "name": "Howrah Aviation Museum",
+    "city": "Howrah",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Aviation+Museum"
+  },
+  {
+    "id": 217,
+    "name": "Mangalore Textile Museum",
+    "city": "Mangalore",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Textile+Museum"
+  },
+  {
+    "id": 218,
+    "name": "Bikaner Aviation Museum",
+    "city": "Bikaner",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bikaner?q=Bikaner+Aviation+Museum"
+  },
+  {
+    "id": 219,
+    "name": "Jalandhar State Museum",
+    "city": "Jalandhar",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+State+Museum"
+  },
+  {
+    "id": 220,
+    "name": "Hyderabad Science Museum",
+    "city": "Hyderabad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hyderabad?q=Hyderabad+Science+Museum"
+  },
+  {
+    "id": 221,
+    "name": "Asansol City Museum",
+    "city": "Asansol",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-asansol?q=Asansol+City+Museum"
+  },
+  {
+    "id": 222,
+    "name": "Chennai Regional Museum",
+    "city": "Chennai",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Regional+Museum"
+  },
+  {
+    "id": 223,
+    "name": "Ujjain Aviation Museum",
+    "city": "Ujjain",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Aviation+Museum"
+  },
+  {
+    "id": 224,
+    "name": "Jalandhar Music & Performing Arts Museum",
+    "city": "Jalandhar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 225,
+    "name": "Kota Folk & Culture Museum",
+    "city": "Kota",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 226,
+    "name": "Ludhiana Tribal Museum",
+    "city": "Ludhiana",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ludhiana?q=Ludhiana+Tribal+Museum"
+  },
+  {
+    "id": 227,
+    "name": "Howrah Crafts Museum",
+    "city": "Howrah",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Crafts+Museum"
+  },
+  {
+    "id": 228,
+    "name": "Warangal Science Museum",
+    "city": "Warangal",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-warangal?q=Warangal+Science+Museum"
+  },
+  {
+    "id": 229,
+    "name": "Thane Regional Museum",
+    "city": "Thane",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Regional+Museum"
+  },
+  {
+    "id": 230,
+    "name": "Loni Innovation Museum",
+    "city": "Loni",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Innovation+Museum"
+  },
+  {
+    "id": 231,
+    "name": "Meerut Space & Science Museum",
+    "city": "Meerut",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Space+%26+Science+Museum"
+  },
+  {
+    "id": 232,
+    "name": "Akola Aviation Museum",
+    "city": "Akola",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-akola?q=Akola+Aviation+Museum"
+  },
+  {
+    "id": 233,
+    "name": "Kochi Heritage Museum",
+    "city": "Kochi",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Heritage+Museum"
+  },
+  {
+    "id": 234,
+    "name": "Bhopal City Museum",
+    "city": "Bhopal",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhopal?q=Bhopal+City+Museum"
+  },
+  {
+    "id": 235,
+    "name": "Erode Rail Museum",
+    "city": "Erode",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-erode?q=Erode+Rail+Museum"
+  },
+  {
+    "id": 236,
+    "name": "Kochi Folk & Culture Museum",
+    "city": "Kochi",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 237,
+    "name": "Guntur Museum of Art",
+    "city": "Guntur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Museum+of+Art"
+  },
+  {
+    "id": 238,
+    "name": "Belagavi Archaeology Museum 2",
+    "city": "Belagavi",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-belagavi?q=Belagavi+Archaeology+Museum+2"
+  },
+  {
+    "id": 239,
+    "name": "Tiruppur Children's Museum",
+    "city": "Tiruppur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Children%27s+Museum"
+  },
+  {
+    "id": 240,
+    "name": "Kochi Heritage Museum 2",
+    "city": "Kochi",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Heritage+Museum+2"
+  },
+  {
+    "id": 241,
+    "name": "Noida State Museum",
+    "city": "Noida",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-noida?q=Noida+State+Museum"
+  },
+  {
+    "id": 242,
+    "name": "Udaipur Folk & Culture Museum",
+    "city": "Udaipur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 243,
+    "name": "Mumbai Archaeology Museum 2",
+    "city": "Mumbai",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mumbai?q=Mumbai+Archaeology+Museum+2"
+  },
+  {
+    "id": 244,
+    "name": "Durgapur Crafts Museum",
+    "city": "Durgapur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-durgapur?q=Durgapur+Crafts+Museum"
+  },
+  {
+    "id": 245,
+    "name": "Cuttack Children's Museum",
+    "city": "Cuttack",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-cuttack?q=Cuttack+Children%27s+Museum"
+  },
+  {
+    "id": 246,
+    "name": "Tirupati Innovation Museum 2",
+    "city": "Tirupati",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tirupati?q=Tirupati+Innovation+Museum+2"
+  },
+  {
+    "id": 247,
+    "name": "Meerut Handicrafts & Handlooms Museum 2",
+    "city": "Meerut",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Handicrafts+%26+Handlooms+Museum+2"
+  },
+  {
+    "id": 248,
+    "name": "Srinagar Regional Museum",
+    "city": "Srinagar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-srinagar?q=Srinagar+Regional+Museum"
+  },
+  {
+    "id": 249,
+    "name": "Malegaon Children's Museum",
+    "city": "Malegaon",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Children%27s+Museum"
+  },
+  {
+    "id": 250,
+    "name": "Loni Music & Performing Arts Museum",
+    "city": "Loni",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 251,
+    "name": "Visakhapatnam Space & Science Museum",
+    "city": "Visakhapatnam",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-visakhapatnam?q=Visakhapatnam+Space+%26+Science+Museum"
+  },
+  {
+    "id": 252,
+    "name": "Bhubaneswar Museum of Art",
+    "city": "Bhubaneswar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Museum+of+Art"
+  },
+  {
+    "id": 253,
+    "name": "Kurnool Heritage Museum",
+    "city": "Kurnool",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kurnool?q=Kurnool+Heritage+Museum"
+  },
+  {
+    "id": 254,
+    "name": "Surat Children's Museum",
+    "city": "Surat",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-surat?q=Surat+Children%27s+Museum"
+  },
+  {
+    "id": 255,
+    "name": "Jammu Textile Museum",
+    "city": "Jammu",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jammu?q=Jammu+Textile+Museum"
+  },
+  {
+    "id": 256,
+    "name": "Jhansi Innovation Museum",
+    "city": "Jhansi",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+Innovation+Museum"
+  },
+  {
+    "id": 257,
+    "name": "Firozabad Government Museum",
+    "city": "Firozabad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-firozabad?q=Firozabad+Government+Museum"
+  },
+  {
+    "id": 258,
+    "name": "Akola Crafts Museum",
+    "city": "Akola",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-akola?q=Akola+Crafts+Museum"
+  },
+  {
+    "id": 259,
+    "name": "Jalandhar Museum of Art",
+    "city": "Jalandhar",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Museum+of+Art"
+  },
+  {
+    "id": 260,
+    "name": "Bhubaneswar Rail Museum",
+    "city": "Bhubaneswar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Rail+Museum"
+  },
+  {
+    "id": 261,
+    "name": "Chennai Tribal Museum",
+    "city": "Chennai",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Tribal+Museum"
+  },
+  {
+    "id": 262,
+    "name": "Solapur Folk & Culture Museum",
+    "city": "Solapur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-solapur?q=Solapur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 263,
+    "name": "Aligarh Planetarium & Science Centre",
+    "city": "Aligarh",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aligarh?q=Aligarh+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 264,
+    "name": "Nashik Science Museum",
+    "city": "Nashik",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Science+Museum"
+  },
+  {
+    "id": 265,
+    "name": "Ulhasnagar War Memorial Museum",
+    "city": "Ulhasnagar",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ulhasnagar?q=Ulhasnagar+War+Memorial+Museum"
+  },
+  {
+    "id": 266,
+    "name": "Srinagar Aviation Museum",
+    "city": "Srinagar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-srinagar?q=Srinagar+Aviation+Museum"
+  },
+  {
+    "id": 267,
+    "name": "Amritsar Crafts Museum",
+    "city": "Amritsar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amritsar?q=Amritsar+Crafts+Museum"
+  },
+  {
+    "id": 268,
+    "name": "Jhansi Innovation Museum 2",
+    "city": "Jhansi",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+Innovation+Museum+2"
+  },
+  {
+    "id": 269,
+    "name": "Kota Planetarium & Science Centre",
+    "city": "Kota",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 270,
+    "name": "Jammu Natural History Museum",
+    "city": "Jammu",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jammu?q=Jammu+Natural+History+Museum"
+  },
+  {
+    "id": 271,
+    "name": "Bareilly Children's Museum",
+    "city": "Bareilly",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bareilly?q=Bareilly+Children%27s+Museum"
+  },
+  {
+    "id": 272,
+    "name": "Dehradun Transport Museum",
+    "city": "Dehradun",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+Transport+Museum"
+  },
+  {
+    "id": 273,
+    "name": "Bengaluru Crafts Museum",
+    "city": "Bengaluru",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bengaluru?q=Bengaluru+Crafts+Museum"
+  },
+  {
+    "id": 274,
+    "name": "Bhavnagar Crafts Museum",
+    "city": "Bhavnagar",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhavnagar?q=Bhavnagar+Crafts+Museum"
+  },
+  {
+    "id": 275,
+    "name": "Malegaon Children's Museum 2",
+    "city": "Malegaon",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Children%27s+Museum+2"
+  },
+  {
+    "id": 276,
+    "name": "Guwahati War Memorial Museum",
+    "city": "Guwahati",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guwahati?q=Guwahati+War+Memorial+Museum"
+  },
+  {
+    "id": 277,
+    "name": "Amritsar Crafts Museum 2",
+    "city": "Amritsar",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amritsar?q=Amritsar+Crafts+Museum+2"
+  },
+  {
+    "id": 278,
+    "name": "Akola Museum of Art",
+    "city": "Akola",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-akola?q=Akola+Museum+of+Art"
+  },
+  {
+    "id": 279,
+    "name": "Gwalior Aviation Museum",
+    "city": "Gwalior",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+Aviation+Museum"
+  },
+  {
+    "id": 280,
+    "name": "Ambattur Heritage Museum",
+    "city": "Ambattur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ambattur?q=Ambattur+Heritage+Museum"
+  },
+  {
+    "id": 281,
+    "name": "Malegaon Folk & Culture Museum",
+    "city": "Malegaon",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 282,
+    "name": "Bharatpur Innovation Museum",
+    "city": "Bharatpur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bharatpur?q=Bharatpur+Innovation+Museum"
+  },
+  {
+    "id": 283,
+    "name": "Prayagraj Rail Museum 2",
+    "city": "Prayagraj",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Rail+Museum+2"
+  },
+  {
+    "id": 284,
+    "name": "Malegaon Tribal Museum",
+    "city": "Malegaon",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Tribal+Museum"
+  },
+  {
+    "id": 285,
+    "name": "Vadodara Regional Museum",
+    "city": "Vadodara",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vadodara?q=Vadodara+Regional+Museum"
+  },
+  {
+    "id": 286,
+    "name": "Nellore Transport Museum",
+    "city": "Nellore",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nellore?q=Nellore+Transport+Museum"
+  },
+  {
+    "id": 287,
+    "name": "Navi Mumbai Innovation Museum",
+    "city": "Navi Mumbai",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Innovation+Museum"
+  },
+  {
+    "id": 288,
+    "name": "Jhansi State Museum 2",
+    "city": "Jhansi",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+State+Museum+2"
+  },
+  {
+    "id": 289,
+    "name": "Hubballi Music & Performing Arts Museum",
+    "city": "Hubballi",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hubballi?q=Hubballi+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 290,
+    "name": "Bhiwandi City Museum 2",
+    "city": "Bhiwandi",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhiwandi?q=Bhiwandi+City+Museum+2"
+  },
+  {
+    "id": 291,
+    "name": "Kolhapur War Memorial Museum",
+    "city": "Kolhapur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolhapur?q=Kolhapur+War+Memorial+Museum"
+  },
+  {
+    "id": 292,
+    "name": "Mangalore Archaeology Museum",
+    "city": "Mangalore",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-mangalore?q=Mangalore+Archaeology+Museum"
+  },
+  {
+    "id": 293,
+    "name": "Patna Government Museum",
+    "city": "Patna",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-patna?q=Patna+Government+Museum"
+  },
+  {
+    "id": 294,
+    "name": "Thane Museum of Art 2",
+    "city": "Thane",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Museum+of+Art+2"
+  },
+  {
+    "id": 295,
+    "name": "Bareilly Aviation Museum",
+    "city": "Bareilly",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bareilly?q=Bareilly+Aviation+Museum"
+  },
+  {
+    "id": 296,
+    "name": "Tiruppur Planetarium & Science Centre",
+    "city": "Tiruppur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 297,
+    "name": "Tiruppur Music & Performing Arts Museum 2",
+    "city": "Tiruppur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Music+%26+Performing+Arts+Museum+2"
+  },
+  {
+    "id": 298,
+    "name": "Aligarh Natural History Museum",
+    "city": "Aligarh",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-aligarh?q=Aligarh+Natural+History+Museum"
+  },
+  {
+    "id": 299,
+    "name": "Vasai-Virar Aviation Museum 2",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Aviation+Museum+2"
+  },
+  {
+    "id": 300,
+    "name": "Nagpur Crafts Museum",
+    "city": "Nagpur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nagpur?q=Nagpur+Crafts+Museum"
+  },
+  {
+    "id": 301,
+    "name": "Pune Textile Museum",
+    "city": "Pune",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-pune?q=Pune+Textile+Museum"
+  },
+  {
+    "id": 302,
+    "name": "Warangal Science Museum 2",
+    "city": "Warangal",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-warangal?q=Warangal+Science+Museum+2"
+  },
+  {
+    "id": 303,
+    "name": "Bengaluru Government Museum",
+    "city": "Bengaluru",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bengaluru?q=Bengaluru+Government+Museum"
+  },
+  {
+    "id": 304,
+    "name": "Bharatpur Planetarium & Science Centre 2",
+    "city": "Bharatpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bharatpur?q=Bharatpur+Planetarium+%26+Science+Centre+2"
+  },
+  {
+    "id": 305,
+    "name": "Kalyan Planetarium & Science Centre",
+    "city": "Kalyan",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kalyan?q=Kalyan+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 306,
+    "name": "Muzaffarnagar Heritage Museum",
+    "city": "Muzaffarnagar",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-muzaffarnagar?q=Muzaffarnagar+Heritage+Museum"
+  },
+  {
+    "id": 307,
+    "name": "Vadodara Heritage Museum",
+    "city": "Vadodara",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vadodara?q=Vadodara+Heritage+Museum"
+  },
+  {
+    "id": 308,
+    "name": "Thane Crafts Museum",
+    "city": "Thane",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-thane?q=Thane+Crafts+Museum"
+  },
+  {
+    "id": 309,
+    "name": "Guwahati War Memorial Museum 2",
+    "city": "Guwahati",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guwahati?q=Guwahati+War+Memorial+Museum+2"
+  },
+  {
+    "id": 310,
+    "name": "Nashik Natural History Museum",
+    "city": "Nashik",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Natural+History+Museum"
+  },
+  {
+    "id": 311,
+    "name": "Bhilai Museum of Art",
+    "city": "Bhilai",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Museum+of+Art"
+  },
+  {
+    "id": 312,
+    "name": "Salem Regional Museum",
+    "city": "Salem",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Regional+Museum"
+  },
+  {
+    "id": 313,
+    "name": "Indore Aviation Museum",
+    "city": "Indore",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+Aviation+Museum"
+  },
+  {
+    "id": 314,
+    "name": "Chennai State Museum",
+    "city": "Chennai",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+State+Museum"
+  },
+  {
+    "id": 315,
+    "name": "Warangal Music & Performing Arts Museum",
+    "city": "Warangal",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-warangal?q=Warangal+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 316,
+    "name": "Tiruchirappalli Folk & Culture Museum",
+    "city": "Tiruchirappalli",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 317,
+    "name": "Belagavi Aviation Museum",
+    "city": "Belagavi",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-belagavi?q=Belagavi+Aviation+Museum"
+  },
+  {
+    "id": 318,
+    "name": "Nanded Heritage Museum",
+    "city": "Nanded",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nanded?q=Nanded+Heritage+Museum"
+  },
+  {
+    "id": 319,
+    "name": "Ajmer Music & Performing Arts Museum",
+    "city": "Ajmer",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 320,
+    "name": "Hubballi Photography Museum",
+    "city": "Hubballi",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hubballi?q=Hubballi+Photography+Museum"
+  },
+  {
+    "id": 321,
+    "name": "Amravati Photography Museum",
+    "city": "Amravati",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Photography+Museum"
+  },
+  {
+    "id": 322,
+    "name": "Ujjain Music & Performing Arts Museum",
+    "city": "Ujjain",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 323,
+    "name": "Jalandhar Aviation Museum",
+    "city": "Jalandhar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Aviation+Museum"
+  },
+  {
+    "id": 324,
+    "name": "Warangal Textile Museum",
+    "city": "Warangal",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-warangal?q=Warangal+Textile+Museum"
+  },
+  {
+    "id": 325,
+    "name": "Vijayawada Folk & Culture Museum",
+    "city": "Vijayawada",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vijayawada?q=Vijayawada+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 326,
+    "name": "Solapur Heritage Museum",
+    "city": "Solapur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-solapur?q=Solapur+Heritage+Museum"
+  },
+  {
+    "id": 327,
+    "name": "Kanpur Science Museum",
+    "city": "Kanpur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kanpur?q=Kanpur+Science+Museum"
+  },
+  {
+    "id": 328,
+    "name": "Malegaon State Museum",
+    "city": "Malegaon",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+State+Museum"
+  },
+  {
+    "id": 329,
+    "name": "Pune Planetarium & Science Centre",
+    "city": "Pune",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-pune?q=Pune+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 330,
+    "name": "Siliguri Museum of Art 3",
+    "city": "Siliguri",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Museum+of+Art+3"
+  },
+  {
+    "id": 331,
+    "name": "Kurnool Government Museum",
+    "city": "Kurnool",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kurnool?q=Kurnool+Government+Museum"
+  },
+  {
+    "id": 332,
+    "name": "Guwahati Museum of Art",
+    "city": "Guwahati",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guwahati?q=Guwahati+Museum+of+Art"
+  },
+  {
+    "id": 333,
+    "name": "Ghaziabad Crafts Museum",
+    "city": "Ghaziabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Crafts+Museum"
+  },
+  {
+    "id": 334,
+    "name": "Kota Innovation Museum",
+    "city": "Kota",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Innovation+Museum"
+  },
+  {
+    "id": 335,
+    "name": "Dehradun War Memorial Museum",
+    "city": "Dehradun",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+War+Memorial+Museum"
+  },
+  {
+    "id": 336,
+    "name": "Kolhapur Crafts Museum",
+    "city": "Kolhapur",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolhapur?q=Kolhapur+Crafts+Museum"
+  },
+  {
+    "id": 337,
+    "name": "Nanded Crafts Museum",
+    "city": "Nanded",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nanded?q=Nanded+Crafts+Museum"
+  },
+  {
+    "id": 338,
+    "name": "Faridabad Natural History Museum",
+    "city": "Faridabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-faridabad?q=Faridabad+Natural+History+Museum"
+  },
+  {
+    "id": 339,
+    "name": "Kota City Museum",
+    "city": "Kota",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+City+Museum"
+  },
+  {
+    "id": 340,
+    "name": "Loni Textile Museum",
+    "city": "Loni",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Textile+Museum"
+  },
+  {
+    "id": 341,
+    "name": "Kanpur State Museum",
+    "city": "Kanpur",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kanpur?q=Kanpur+State+Museum"
+  },
+  {
+    "id": 342,
+    "name": "Tiruppur Aviation Museum",
+    "city": "Tiruppur",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Aviation+Museum"
+  },
+  {
+    "id": 343,
+    "name": "Gwalior State Museum",
+    "city": "Gwalior",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+State+Museum"
+  },
+  {
+    "id": 344,
+    "name": "Lucknow Government Museum",
+    "city": "Lucknow",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-lucknow?q=Lucknow+Government+Museum"
+  },
+  {
+    "id": 345,
+    "name": "Kolkata Crafts Museum",
+    "city": "Kolkata",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolkata?q=Kolkata+Crafts+Museum"
+  },
+  {
+    "id": 346,
+    "name": "Loni Folk & Culture Museum",
+    "city": "Loni",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-loni?q=Loni+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 347,
+    "name": "Tiruppur Natural History Museum",
+    "city": "Tiruppur",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruppur?q=Tiruppur+Natural+History+Museum"
+  },
+  {
+    "id": 348,
+    "name": "Kota Folk & Culture Museum 2",
+    "city": "Kota",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Folk+%26+Culture+Museum+2"
+  },
+  {
+    "id": 349,
+    "name": "Gorakhpur Space & Science Museum",
+    "city": "Gorakhpur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gorakhpur?q=Gorakhpur+Space+%26+Science+Museum"
+  },
+  {
+    "id": 350,
+    "name": "Varanasi Textile Museum",
+    "city": "Varanasi",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-varanasi?q=Varanasi+Textile+Museum"
+  },
+  {
+    "id": 351,
+    "name": "Kalyan Archaeology Museum",
+    "city": "Kalyan",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kalyan?q=Kalyan+Archaeology+Museum"
+  },
+  {
+    "id": 352,
+    "name": "Coimbatore Tribal Museum",
+    "city": "Coimbatore",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Tribal+Museum"
+  },
+  {
+    "id": 353,
+    "name": "Malegaon Folk & Culture Museum 2",
+    "city": "Malegaon",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Folk+%26+Culture+Museum+2"
+  },
+  {
+    "id": 354,
+    "name": "Cuttack Handicrafts & Handlooms Museum",
+    "city": "Cuttack",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-cuttack?q=Cuttack+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 355,
+    "name": "Siliguri Transport Museum",
+    "city": "Siliguri",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Transport+Museum"
+  },
+  {
+    "id": 356,
+    "name": "Jalandhar City Museum",
+    "city": "Jalandhar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+City+Museum"
+  },
+  {
+    "id": 357,
+    "name": "Dehradun Folk & Culture Museum",
+    "city": "Dehradun",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 358,
+    "name": "Coimbatore Museum of Art",
+    "city": "Coimbatore",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Museum+of+Art"
+  },
+  {
+    "id": 359,
+    "name": "Agra Photography Museum",
+    "city": "Agra",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-agra?q=Agra+Photography+Museum"
+  },
+  {
+    "id": 360,
+    "name": "Kanpur Folk & Culture Museum",
+    "city": "Kanpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kanpur?q=Kanpur+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 361,
+    "name": "Asansol Textile Museum",
+    "city": "Asansol",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-asansol?q=Asansol+Textile+Museum"
+  },
+  {
+    "id": 362,
+    "name": "Gwalior State Museum 2",
+    "city": "Gwalior",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+State+Museum+2"
+  },
+  {
+    "id": 363,
+    "name": "Muzaffarnagar Rail Museum",
+    "city": "Muzaffarnagar",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-muzaffarnagar?q=Muzaffarnagar+Rail+Museum"
+  },
+  {
+    "id": 364,
+    "name": "Bhilai Space & Science Museum",
+    "city": "Bhilai",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Space+%26+Science+Museum"
+  },
+  {
+    "id": 365,
+    "name": "Ambattur Music & Performing Arts Museum",
+    "city": "Ambattur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ambattur?q=Ambattur+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 366,
+    "name": "Vadodara Natural History Museum 2",
+    "city": "Vadodara",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vadodara?q=Vadodara+Natural+History+Museum+2"
+  },
+  {
+    "id": 367,
+    "name": "Ghaziabad Regional Museum",
+    "city": "Ghaziabad",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Regional+Museum"
+  },
+  {
+    "id": 368,
+    "name": "Udaipur Music & Performing Arts Museum",
+    "city": "Udaipur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 369,
+    "name": "Tirupati Planetarium & Science Centre",
+    "city": "Tirupati",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tirupati?q=Tirupati+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 370,
+    "name": "Jamnagar Music & Performing Arts Museum",
+    "city": "Jamnagar",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jamnagar?q=Jamnagar+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 371,
+    "name": "Ghaziabad Aviation Museum",
+    "city": "Ghaziabad",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Aviation+Museum"
+  },
+  {
+    "id": 372,
+    "name": "Akola Archaeology Museum",
+    "city": "Akola",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-akola?q=Akola+Archaeology+Museum"
+  },
+  {
+    "id": 373,
+    "name": "Guwahati Space & Science Museum",
+    "city": "Guwahati",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guwahati?q=Guwahati+Space+%26+Science+Museum"
+  },
+  {
+    "id": 374,
+    "name": "Salem Government Museum",
+    "city": "Salem",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Government+Museum"
+  },
+  {
+    "id": 375,
+    "name": "Surat Music & Performing Arts Museum",
+    "city": "Surat",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-surat?q=Surat+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 376,
+    "name": "Amravati Textile Museum",
+    "city": "Amravati",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Textile+Museum"
+  },
+  {
+    "id": 377,
+    "name": "Panaji State Museum",
+    "city": "Panaji",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-panaji?q=Panaji+State+Museum"
+  },
+  {
+    "id": 378,
+    "name": "Ujjain Maritime Museum",
+    "city": "Ujjain",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ujjain?q=Ujjain+Maritime+Museum"
+  },
+  {
+    "id": 379,
+    "name": "Amravati Heritage Museum",
+    "city": "Amravati",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Heritage+Museum"
+  },
+  {
+    "id": 380,
+    "name": "Raipur Handicrafts & Handlooms Museum",
+    "city": "Raipur",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-raipur?q=Raipur+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 381,
+    "name": "Chennai War Memorial Museum",
+    "city": "Chennai",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+War+Memorial+Museum"
+  },
+  {
+    "id": 382,
+    "name": "Bhilai Space & Science Museum 2",
+    "city": "Bhilai",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Space+%26+Science+Museum+2"
+  },
+  {
+    "id": 383,
+    "name": "Solapur Archaeology Museum",
+    "city": "Solapur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-solapur?q=Solapur+Archaeology+Museum"
+  },
+  {
+    "id": 384,
+    "name": "Jhansi Photography Museum",
+    "city": "Jhansi",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jhansi?q=Jhansi+Photography+Museum"
+  },
+  {
+    "id": 385,
+    "name": "Jaipur Tribal Museum",
+    "city": "Jaipur",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jaipur?q=Jaipur+Tribal+Museum"
+  },
+  {
+    "id": 386,
+    "name": "Howrah Natural History Museum",
+    "city": "Howrah",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Natural+History+Museum"
+  },
+  {
+    "id": 387,
+    "name": "Ghaziabad Tribal Museum",
+    "city": "Ghaziabad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Tribal+Museum"
+  },
+  {
+    "id": 388,
+    "name": "Kota Archaeology Museum 2",
+    "city": "Kota",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+Archaeology+Museum+2"
+  },
+  {
+    "id": 389,
+    "name": "Visakhapatnam Photography Museum",
+    "city": "Visakhapatnam",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-visakhapatnam?q=Visakhapatnam+Photography+Museum"
+  },
+  {
+    "id": 390,
+    "name": "Nellore Textile Museum",
+    "city": "Nellore",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nellore?q=Nellore+Textile+Museum"
+  },
+  {
+    "id": 391,
+    "name": "Siliguri Handicrafts & Handlooms Museum",
+    "city": "Siliguri",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 392,
+    "name": "Kanpur Music & Performing Arts Museum",
+    "city": "Kanpur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kanpur?q=Kanpur+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 393,
+    "name": "Chandigarh City Museum",
+    "city": "Chandigarh",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+City+Museum"
+  },
+  {
+    "id": 394,
+    "name": "Vasai-Virar Tribal Museum",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Tribal+Museum"
+  },
+  {
+    "id": 395,
+    "name": "Patna Heritage Museum",
+    "city": "Patna",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-patna?q=Patna+Heritage+Museum"
+  },
+  {
+    "id": 396,
+    "name": "Amravati Regional Museum",
+    "city": "Amravati",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Regional+Museum"
+  },
+  {
+    "id": 397,
+    "name": "Ahmedabad Crafts Museum",
+    "city": "Ahmedabad",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Crafts+Museum"
+  },
+  {
+    "id": 398,
+    "name": "Rourkela Textile Museum",
+    "city": "Rourkela",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rourkela?q=Rourkela+Textile+Museum"
+  },
+  {
+    "id": 399,
+    "name": "Jammu Regional Museum",
+    "city": "Jammu",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jammu?q=Jammu+Regional+Museum"
+  },
+  {
+    "id": 400,
+    "name": "Chennai Folk & Culture Museum",
+    "city": "Chennai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 401,
+    "name": "Bhubaneswar Photography Museum",
+    "city": "Bhubaneswar",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Photography+Museum"
+  },
+  {
+    "id": 402,
+    "name": "Srinagar Innovation Museum",
+    "city": "Srinagar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-srinagar?q=Srinagar+Innovation+Museum"
+  },
+  {
+    "id": 403,
+    "name": "Meerut Transport Museum",
+    "city": "Meerut",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Transport+Museum"
+  },
+  {
+    "id": 404,
+    "name": "Guntur Regional Museum",
+    "city": "Guntur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Regional+Museum"
+  },
+  {
+    "id": 405,
+    "name": "Bhilai Folk & Culture Museum",
+    "city": "Bhilai",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Folk+%26+Culture+Museum"
+  },
+  {
+    "id": 406,
+    "name": "Patna Natural History Museum",
+    "city": "Patna",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-patna?q=Patna+Natural+History+Museum"
+  },
+  {
+    "id": 407,
+    "name": "Solapur Innovation Museum",
+    "city": "Solapur",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-solapur?q=Solapur+Innovation+Museum"
+  },
+  {
+    "id": 408,
+    "name": "Bhopal Archaeology Museum",
+    "city": "Bhopal",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhopal?q=Bhopal+Archaeology+Museum"
+  },
+  {
+    "id": 409,
+    "name": "Salem Space & Science Museum",
+    "city": "Salem",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Space+%26+Science+Museum"
+  },
+  {
+    "id": 410,
+    "name": "Varanasi Aviation Museum",
+    "city": "Varanasi",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-varanasi?q=Varanasi+Aviation+Museum"
+  },
+  {
+    "id": 411,
+    "name": "Kolkata Textile Museum",
+    "city": "Kolkata",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolkata?q=Kolkata+Textile+Museum"
+  },
+  {
+    "id": 412,
+    "name": "Bareilly Science Museum",
+    "city": "Bareilly",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bareilly?q=Bareilly+Science+Museum"
+  },
+  {
+    "id": 413,
+    "name": "Vijayawada Museum of Art",
+    "city": "Vijayawada",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vijayawada?q=Vijayawada+Museum+of+Art"
+  },
+  {
+    "id": 414,
+    "name": "Panaji Heritage Museum",
+    "city": "Panaji",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-panaji?q=Panaji+Heritage+Museum"
+  },
+  {
+    "id": 415,
+    "name": "Bhiwandi Handicrafts & Handlooms Museum",
+    "city": "Bhiwandi",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhiwandi?q=Bhiwandi+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 416,
+    "name": "Salem Photography Museum",
+    "city": "Salem",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-salem?q=Salem+Photography+Museum"
+  },
+  {
+    "id": 417,
+    "name": "Amritsar Maritime Museum",
+    "city": "Amritsar",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amritsar?q=Amritsar+Maritime+Museum"
+  },
+  {
+    "id": 418,
+    "name": "Bhilai Folk & Culture Museum 2",
+    "city": "Bhilai",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Folk+%26+Culture+Museum+2"
+  },
+  {
+    "id": 419,
+    "name": "Jabalpur Museum of Art",
+    "city": "Jabalpur",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jabalpur?q=Jabalpur+Museum+of+Art"
+  },
+  {
+    "id": 420,
+    "name": "Gulbarga Photography Museum",
+    "city": "Gulbarga",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gulbarga?q=Gulbarga+Photography+Museum"
+  },
+  {
+    "id": 421,
+    "name": "Bikaner Photography Museum",
+    "city": "Bikaner",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bikaner?q=Bikaner+Photography+Museum"
+  },
+  {
+    "id": 422,
+    "name": "Dehradun War Memorial Museum 2",
+    "city": "Dehradun",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+War+Memorial+Museum+2"
+  },
+  {
+    "id": 423,
+    "name": "Moradabad City Museum",
+    "city": "Moradabad",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-moradabad?q=Moradabad+City+Museum"
+  },
+  {
+    "id": 424,
+    "name": "Dehradun Folk & Culture Museum 2",
+    "city": "Dehradun",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dehradun?q=Dehradun+Folk+%26+Culture+Museum+2"
+  },
+  {
+    "id": 425,
+    "name": "Bhilai Transport Museum",
+    "city": "Bhilai",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Transport+Museum"
+  },
+  {
+    "id": 426,
+    "name": "Amravati Space & Science Museum",
+    "city": "Amravati",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amravati?q=Amravati+Space+%26+Science+Museum"
+  },
+  {
+    "id": 427,
+    "name": "Bhiwandi Government Museum",
+    "city": "Bhiwandi",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhiwandi?q=Bhiwandi+Government+Museum"
+  },
+  {
+    "id": 428,
+    "name": "Amritsar State Museum",
+    "city": "Amritsar",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-amritsar?q=Amritsar+State+Museum"
+  },
+  {
+    "id": 429,
+    "name": "Kota War Memorial Museum 2",
+    "city": "Kota",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kota?q=Kota+War+Memorial+Museum+2"
+  },
+  {
+    "id": 430,
+    "name": "Udaipur Planetarium & Science Centre 2",
+    "city": "Udaipur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Planetarium+%26+Science+Centre+2"
+  },
+  {
+    "id": 431,
+    "name": "Chennai Transport Museum",
+    "city": "Chennai",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Transport+Museum"
+  },
+  {
+    "id": 432,
+    "name": "Muzaffarnagar Crafts Museum",
+    "city": "Muzaffarnagar",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-muzaffarnagar?q=Muzaffarnagar+Crafts+Museum"
+  },
+  {
+    "id": 433,
+    "name": "Akola Rail Museum",
+    "city": "Akola",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-akola?q=Akola+Rail+Museum"
+  },
+  {
+    "id": 434,
+    "name": "Ahmedabad Archaeology Museum",
+    "city": "Ahmedabad",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Archaeology+Museum"
+  },
+  {
+    "id": 435,
+    "name": "Chennai Tribal Museum 2",
+    "city": "Chennai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+Tribal+Museum+2"
+  },
+  {
+    "id": 436,
+    "name": "Firozabad Children's Museum",
+    "city": "Firozabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-firozabad?q=Firozabad+Children%27s+Museum"
+  },
+  {
+    "id": 437,
+    "name": "Howrah Transport Museum",
+    "city": "Howrah",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Transport+Museum"
+  },
+  {
+    "id": 438,
+    "name": "Prayagraj Museum of Art",
+    "city": "Prayagraj",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Museum+of+Art"
+  },
+  {
+    "id": 439,
+    "name": "Malegaon Aviation Museum",
+    "city": "Malegaon",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-malegaon?q=Malegaon+Aviation+Museum"
+  },
+  {
+    "id": 440,
+    "name": "Bikaner Handicrafts & Handlooms Museum",
+    "city": "Bikaner",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bikaner?q=Bikaner+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 441,
+    "name": "Prayagraj Science Museum",
+    "city": "Prayagraj",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Science+Museum"
+  },
+  {
+    "id": 442,
+    "name": "Jalandhar Photography Museum",
+    "city": "Jalandhar",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jalandhar?q=Jalandhar+Photography+Museum"
+  },
+  {
+    "id": 443,
+    "name": "Jodhpur Museum of Art",
+    "city": "Jodhpur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jodhpur?q=Jodhpur+Museum+of+Art"
+  },
+  {
+    "id": 444,
+    "name": "Gwalior Aviation Museum 2",
+    "city": "Gwalior",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+Aviation+Museum+2"
+  },
+  {
+    "id": 445,
+    "name": "Agra Handicrafts & Handlooms Museum",
+    "city": "Agra",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-agra?q=Agra+Handicrafts+%26+Handlooms+Museum"
+  },
+  {
+    "id": 446,
+    "name": "Chennai State Museum 2",
+    "city": "Chennai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chennai?q=Chennai+State+Museum+2"
+  },
+  {
+    "id": 447,
+    "name": "Ranchi Music & Performing Arts Museum",
+    "city": "Ranchi",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ranchi?q=Ranchi+Music+%26+Performing+Arts+Museum"
+  },
+  {
+    "id": 448,
+    "name": "Chandigarh Space & Science Museum",
+    "city": "Chandigarh",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+Space+%26+Science+Museum"
+  },
+  {
+    "id": 449,
+    "name": "Hyderabad Heritage Museum",
+    "city": "Hyderabad",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hyderabad?q=Hyderabad+Heritage+Museum"
+  },
+  {
+    "id": 450,
+    "name": "Ahmedabad Heritage Museum",
+    "city": "Ahmedabad",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ahmedabad?q=Ahmedabad+Heritage+Museum"
+  },
+  {
+    "id": 451,
+    "name": "Chandigarh Textile Museum",
+    "city": "Chandigarh",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+Textile+Museum"
+  },
+  {
+    "id": 452,
+    "name": "Ghaziabad Crafts Museum 2",
+    "city": "Ghaziabad",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ghaziabad?q=Ghaziabad+Crafts+Museum+2"
+  },
+  {
+    "id": 453,
+    "name": "Bhubaneswar Regional Museum",
+    "city": "Bhubaneswar",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhubaneswar?q=Bhubaneswar+Regional+Museum"
+  },
+  {
+    "id": 454,
+    "name": "Bhilai Transport Museum 2",
+    "city": "Bhilai",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Transport+Museum+2"
+  },
+  {
+    "id": 455,
+    "name": "Dhanbad Museum of Art 2",
+    "city": "Dhanbad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+Museum+of+Art+2"
+  },
+  {
+    "id": 456,
+    "name": "Bikaner Space & Science Museum",
+    "city": "Bikaner",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bikaner?q=Bikaner+Space+%26+Science+Museum"
+  },
+  {
+    "id": 457,
+    "name": "Navi Mumbai Regional Museum",
+    "city": "Navi Mumbai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Regional+Museum"
+  },
+  {
+    "id": 458,
+    "name": "Vasai-Virar Photography Museum",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Photography+Museum"
+  },
+  {
+    "id": 459,
+    "name": "Rajkot Museum of Art",
+    "city": "Rajkot",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rajkot?q=Rajkot+Museum+of+Art"
+  },
+  {
+    "id": 460,
+    "name": "Nashik Handicrafts & Handlooms Museum 2",
+    "city": "Nashik",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-nashik?q=Nashik+Handicrafts+%26+Handlooms+Museum+2"
+  },
+  {
+    "id": 461,
+    "name": "Siliguri Transport Museum 2",
+    "city": "Siliguri",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-siliguri?q=Siliguri+Transport+Museum+2"
+  },
+  {
+    "id": 462,
+    "name": "Firozabad Archaeology Museum",
+    "city": "Firozabad",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-firozabad?q=Firozabad+Archaeology+Museum"
+  },
+  {
+    "id": 463,
+    "name": "Panaji Transport Museum",
+    "city": "Panaji",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-panaji?q=Panaji+Transport+Museum"
+  },
+  {
+    "id": 464,
+    "name": "Rajkot Heritage Museum",
+    "city": "Rajkot",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-rajkot?q=Rajkot+Heritage+Museum"
+  },
+  {
+    "id": 465,
+    "name": "Chandigarh Innovation Museum",
+    "city": "Chandigarh",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+Innovation+Museum"
+  },
+  {
+    "id": 466,
+    "name": "Kochi Heritage Museum 3",
+    "city": "Kochi",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kochi?q=Kochi+Heritage+Museum+3"
+  },
+  {
+    "id": 467,
+    "name": "Gwalior Textile Museum",
+    "city": "Gwalior",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gwalior?q=Gwalior+Textile+Museum"
+  },
+  {
+    "id": 468,
+    "name": "Bhilai Folk & Culture Museum 3",
+    "city": "Bhilai",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhilai?q=Bhilai+Folk+%26+Culture+Museum+3"
+  },
+  {
+    "id": 469,
+    "name": "Visakhapatnam Tribal Museum",
+    "city": "Visakhapatnam",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-visakhapatnam?q=Visakhapatnam+Tribal+Museum"
+  },
+  {
+    "id": 470,
+    "name": "Guntur Crafts Museum 2",
+    "city": "Guntur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Crafts+Museum+2"
+  },
+  {
+    "id": 471,
+    "name": "Muzaffarnagar Innovation Museum",
+    "city": "Muzaffarnagar",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-muzaffarnagar?q=Muzaffarnagar+Innovation+Museum"
+  },
+  {
+    "id": 472,
+    "name": "Udaipur Heritage Museum",
+    "city": "Udaipur",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-udaipur?q=Udaipur+Heritage+Museum"
+  },
+  {
+    "id": 473,
+    "name": "Bhopal Space & Science Museum",
+    "city": "Bhopal",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-bhopal?q=Bhopal+Space+%26+Science+Museum"
+  },
+  {
+    "id": 474,
+    "name": "Ludhiana Tribal Museum 2",
+    "city": "Ludhiana",
+    "timings": "11:00 AM - 5:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ludhiana?q=Ludhiana+Tribal+Museum+2"
+  },
+  {
+    "id": 475,
+    "name": "Jamshedpur Archaeology Museum",
+    "city": "Jamshedpur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jamshedpur?q=Jamshedpur+Archaeology+Museum"
+  },
+  {
+    "id": 476,
+    "name": "Gulbarga Innovation Museum",
+    "city": "Gulbarga",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 50,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-gulbarga?q=Gulbarga+Innovation+Museum"
+  },
+  {
+    "id": 477,
+    "name": "Kolhapur Innovation Museum",
+    "city": "Kolhapur",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 30,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolhapur?q=Kolhapur+Innovation+Museum"
+  },
+  {
+    "id": 478,
+    "name": "Asansol Planetarium & Science Centre",
+    "city": "Asansol",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-asansol?q=Asansol+Planetarium+%26+Science+Centre"
+  },
+  {
+    "id": 479,
+    "name": "Kurnool Photography Museum",
+    "city": "Kurnool",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kurnool?q=Kurnool+Photography+Museum"
+  },
+  {
+    "id": 480,
+    "name": "Hyderabad Science Museum 2",
+    "city": "Hyderabad",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-hyderabad?q=Hyderabad+Science+Museum+2"
+  },
+  {
+    "id": 481,
+    "name": "Navi Mumbai Music & Performing Arts Museum 2",
+    "city": "Navi Mumbai",
+    "timings": "9:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-navi-mumbai?q=Navi+Mumbai+Music+%26+Performing+Arts+Museum+2"
+  },
+  {
+    "id": 482,
+    "name": "Ajmer Music & Performing Arts Museum 2",
+    "city": "Ajmer",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ajmer?q=Ajmer+Music+%26+Performing+Arts+Museum+2"
+  },
+  {
+    "id": 483,
+    "name": "Coimbatore Music & Performing Arts Museum 2",
+    "city": "Coimbatore",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-coimbatore?q=Coimbatore+Music+%26+Performing+Arts+Museum+2"
+  },
+  {
+    "id": 484,
+    "name": "Ulhasnagar Textile Museum",
+    "city": "Ulhasnagar",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-ulhasnagar?q=Ulhasnagar+Textile+Museum"
+  },
+  {
+    "id": 485,
+    "name": "Jammu Government Museum",
+    "city": "Jammu",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-jammu?q=Jammu+Government+Museum"
+  },
+  {
+    "id": 486,
+    "name": "Saharanpur Aviation Museum 2",
+    "city": "Saharanpur",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-saharanpur?q=Saharanpur+Aviation+Museum+2"
+  },
+  {
+    "id": 487,
+    "name": "Vadodara Tribal Museum",
+    "city": "Vadodara",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vadodara?q=Vadodara+Tribal+Museum"
+  },
+  {
+    "id": 488,
+    "name": "Tiruchirappalli Heritage Museum",
+    "city": "Tiruchirappalli",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-tiruchirappalli?q=Tiruchirappalli+Heritage+Museum"
+  },
+  {
+    "id": 489,
+    "name": "Indore Tribal Museum",
+    "city": "Indore",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-indore?q=Indore+Tribal+Museum"
+  },
+  {
+    "id": 490,
+    "name": "Prayagraj Aviation Museum",
+    "city": "Prayagraj",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 20,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-prayagraj?q=Prayagraj+Aviation+Museum"
+  },
+  {
+    "id": 491,
+    "name": "Kolkata Archaeology Museum",
+    "city": "Kolkata",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kolkata?q=Kolkata+Archaeology+Museum"
+  },
+  {
+    "id": 492,
+    "name": "Dhanbad Rail Museum",
+    "city": "Dhanbad",
+    "timings": "10:00 AM - 7:00 PM",
+    "price": 75,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-dhanbad?q=Dhanbad+Rail+Museum"
+  },
+  {
+    "id": 493,
+    "name": "Meerut Regional Museum",
+    "city": "Meerut",
+    "timings": "9:00 AM - 6:00 PM",
+    "price": 200,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-meerut?q=Meerut+Regional+Museum"
+  },
+  {
+    "id": 494,
+    "name": "Guntur Children's Museum",
+    "city": "Guntur",
+    "timings": "10:00 AM - 6:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-guntur?q=Guntur+Children%27s+Museum"
+  },
+  {
+    "id": 495,
+    "name": "Kanpur Textile Museum",
+    "city": "Kanpur",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 40,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-kanpur?q=Kanpur+Textile+Museum"
+  },
+  {
+    "id": 496,
+    "name": "Vasai-Virar Planetarium & Science Centre 2",
+    "city": "Vasai-Virar",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 0,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-vasai-virar?q=Vasai-Virar+Planetarium+%26+Science+Centre+2"
+  },
+  {
+    "id": 497,
+    "name": "Howrah Children's Museum",
+    "city": "Howrah",
+    "timings": "11:00 AM - 7:00 PM",
+    "price": 150,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Children%27s+Museum"
+  },
+  {
+    "id": 498,
+    "name": "Howrah Innovation Museum",
+    "city": "Howrah",
+    "timings": "9:00 AM - 5:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-howrah?q=Howrah+Innovation+Museum"
+  },
+  {
+    "id": 499,
+    "name": "Patna Natural History Museum 2",
+    "city": "Patna",
+    "timings": "11:00 AM - 6:00 PM",
+    "price": 100,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-patna?q=Patna+Natural+History+Museum+2"
+  },
+  {
+    "id": 500,
+    "name": "Chandigarh Government Museum",
+    "city": "Chandigarh",
+    "timings": "10:00 AM - 5:00 PM",
+    "price": 250,
+    "bookingUrl": "https://in.bookmyshow.com/explore/activities-chandigarh?q=Chandigarh+Government+Museum"
+  }
+]
